@@ -189,11 +189,11 @@ We welcome contributions from developers, educators, designers, and education po
 
 #### Contribution Areas
 
-🐛 **Bug fixes** and performance improvements
-📝 **Documentation** enhancements
-🌍 **Localization** (Kinyarwanda, French translations)
-🎨 **UI/UX** design improvements
-🧪 **Testing** and quality assurance
+🐛 **Bug fixes** and performance improvements \
+📝 **Documentation** enhancements \
+🌍 **Localization** (Kinyarwanda, French translations) \
+🎨 **UI/UX** design improvements  
+🧪 **Testing** and quality assurance \
 📊 **Content curation** (educational materials)
 
 → [Full Contributing Guide](docs/Contributing.md)
