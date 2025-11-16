@@ -288,7 +288,7 @@ Learning Objectives:
   1. Students can identify quadratic equations
   2. Students can solve using factoring method
   3. Students can apply to real-world problems
-```
+
 #### AI-Generated Output:
 
 # Lesson Plan: Introduction to Quadratic Equations (S4 Math)
