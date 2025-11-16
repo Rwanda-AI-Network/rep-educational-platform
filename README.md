@@ -83,17 +83,17 @@ See our [complete roadmap](docs/Post-MVP-Vision.md) for details.
 REP is built as a modern, scalable monolithic application with clear separation of concerns.
 ```
 ┌─────────────────────────────────────────────────────────┐
-│                     Frontend Layer                       │
+│                     Frontend Layer                      │
 │  Next.js 14+ (React, TypeScript, Tailwind CSS)          │
-│  Mobile-first responsive design                          │
+│  Mobile-first responsive design                         │
 └─────────────────────┬───────────────────────────────────┘
                       │ REST API
 ┌─────────────────────▼───────────────────────────────────┐
-│                    Backend Layer                         │
-│  Django 5.0+ / Django REST Framework                     │
-│  - Authentication & Authorization                        │
-│  - Content Management API                                │
-│  - AI Assistant Orchestration                            │
+│                    Backend Layer                        │
+│  Django 5.0+ / Django REST Framework                    │
+│  - Authentication & Authorization                       │
+│  - Content Management API                               │
+│  - AI Assistant Orchestration                           │
 └─────────────────────┬───────────────────────────────────┘
                       │
         ┌─────────────┼─────────────┐
@@ -261,8 +261,7 @@ Promote **innovation** in African edtech
 
 ## Project Status  
 #### 🟢 **Active Development** - MVP in progress
-Current version: `0.1.0-alpha`
-
+Current version: `0.1.0-alpha` \
 Target MVP release: Q2 2025
 
 ---
